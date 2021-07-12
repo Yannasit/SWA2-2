@@ -1,6 +1,4 @@
-package com.swa.oop3;
-
-public class ShapeMainShow {
+public class ShowShape {
 
 	public static void main(String[] args) {
 		Shape shape;
